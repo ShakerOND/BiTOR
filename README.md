@@ -1,6 +1,7 @@
 
+Encode in Progress Back to the Future Part III 1990 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR
 
-Encode in progress (Back to the Future Part II 1989 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR) by SASUKE
+DONE  (Back to the Future Part II 1989 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR) by SASUKE
 
 
 
