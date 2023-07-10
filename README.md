@@ -1,5 +1,5 @@
 
-DONE -Resident Evil The Final Chapter 2016 2160p UHD BluRay DV HDR DDP 5.1 x265-BiTOR
+PEDING - Vanilla Sky 2001 2160p UHD BluRay DV HDR-BiTOR
 
 <body text="blue">
   
