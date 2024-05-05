@@ -9,7 +9,7 @@ EX.
 
 2.REMUX UHD TrueHD Atmos 7.1 (DTS -HD MA 5.1)
 
--x265 DDP Atmos 7.1 (DDP 5.1)
+-x265 DDP Atmos 7.1 (DDP Atmos 5.1)
 
 <body text="blue">
   
